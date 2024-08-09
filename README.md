@@ -1,1 +1,1 @@
-Repositório com foco em projeto de Ciências de Dados e Análise de Dados.
+Repositório com foco em projetos de Ciências de Dados e Análise de Dados.
