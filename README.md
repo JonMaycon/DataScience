@@ -1,1 +1,1 @@
-Repositório para estudos de DataScience!
+Repositório para estudos de DataScience
